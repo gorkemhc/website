@@ -15,5 +15,5 @@ JavaScript
 PHP
 MySQL
 ## kurulum
-##canlı link
+## canlı link
 henüz yayınlanmadı
