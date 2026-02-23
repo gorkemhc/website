@@ -16,4 +16,4 @@ PHP
 MySQL
 ## kurulum
 ## canlı link
-henüz yayınlanmadı
+https://gorkemhc.github.io/website/
